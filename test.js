@@ -95,7 +95,7 @@ ovejaNegra2 (array)*/
 
 
 //ejercicio 6
-
+/*
 var array = [7,4,2,3]
 let n = -1
 while(2 != array.length){
@@ -105,7 +105,7 @@ while(2 != array.length){
     })
 console.log (array)
 } 
-    
+*/
 
 
 //ejercicio 7
@@ -126,5 +126,5 @@ while (counter < array.length){
 
 
 
-
+console.log(modified)
 
