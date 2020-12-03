@@ -122,6 +122,7 @@ while (counter < array.length){
     console.log (n)
 }
 */
+jjjjjj
 
 
 
